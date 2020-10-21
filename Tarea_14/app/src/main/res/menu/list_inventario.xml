@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mVenta"
+        android:title="Venta" />
+    <item
+        android:id="@+id/mCompra"
+        android:title="Compra" />
+    <item
+        android:id="@+id/mLista"
+        android:title="Lista de Productos" />
+    <item
+        android:id="@+id/mCerrar"
+        android:title="Cerrar Sesión" />
+</menu>
